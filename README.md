@@ -1,3 +1,5 @@
-The dataset used in this project is available on Hugging Face:
+📦 Dataset
 
-(https://huggingface.co/berkayaltintas/eee443-miniproject-dataset/blob/main/datasets.zip)
+The dataset used in this project is publicly available on Hugging Face and can be downloaded from the link below:
+
+🔗 [Download datasets.zip](https://huggingface.co/berkayaltntas/eee443-miniproject-dataset/resolve/main/datasets.zip)
