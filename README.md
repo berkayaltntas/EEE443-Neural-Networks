@@ -47,15 +47,14 @@ The dataset used in the mini project is publicly available on [my Hugging Face p
 
 Tutorials from the course exploring key neural network operations:
 
-- `Tutorial 1 - Gradient Checking.ipynb`
+- `Tutorial 1 - One Hidden Layer Network.ipynb`
 - `Tutorial 2 - L-Layer Networks.ipynb`
-- `Tutorial 3 - One Hidden Layer Network.ipynb`
-- `Tutorial 4 - Optimizers.ipynb`
-- `Tutorial 5 - Residual Networks.ipynb`
+- `Tutorial 3 - Gradient Checking.ipynb`
+- `Tutorial 4 - Residual Networks.ipynb`
+- `Tutorial 5 - Optimizers.ipynb`
 
 > All tutorials are located in the [`Tutorials/`](./Tutorials) folder.
 
----
 
 
 
