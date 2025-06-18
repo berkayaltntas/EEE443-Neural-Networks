@@ -3,7 +3,7 @@
 This repository contains materials and implementations developed for the EEE443 Neural Networks course. It includes:
 
 - 🧪 Mini projects showcasing foundational deep learning concepts implemented from scratch using Python and NumPy  
-- 📘 Weekly tutorials exploring core neural network components and training mechanisms
+- 📘 Hands-on tutorials exploring key neural network mechanisms such as forward/backward propagation, gradient checking, deep architectures, optimization algorithms, and residual networks
 
 ---
 
@@ -47,12 +47,11 @@ The dataset used in the mini project is publicly available on [my Hugging Face p
 
 Tutorials from the course exploring key neural network operations:
 
-- `Tutorial 1 - Forward and Backward Pass of Linear Layer.ipynb`
-- `Tutorial 2 - Multi-Layer Perceptron and Backpropagation.ipynb`
-- `Tutorial 3 - Training with Gradient Descent.ipynb`
-- `Tutorial 4 - Activation Functions.ipynb`
-- `Tutorial 5 - CNNs with NumPy.ipynb`
-- `Tutorial 6 - CNN in PyTorch.ipynb`
+- `Tutorial 1 - Gradient Checking.ipynb`
+- `Tutorial 2 - L-Layer Networks.ipynb`
+- `Tutorial 3 - One Hidden Layer Network.ipynb`
+- `Tutorial 4 - Optimizers.ipynb`
+- `Tutorial 5 - Residual Networks.ipynb`
 
 > All tutorials are located in the [`Tutorials/`](./Tutorials) folder.
 
